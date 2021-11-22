@@ -8,6 +8,7 @@
 #
 # ===============================================================
 
+ablink.editorial.theguardian.com
 click.email.canadiantire.ca
 link.morningbrew.com
 link.theatlantic.com
