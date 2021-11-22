@@ -1,0 +1,13 @@
+# Title: adlist.txt
+#
+# A short list of hosts that are typically blocked by ad blockers,
+# but are useful to me - mostly for clicking links in newsletters.
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/haraldkoch/safelists/main/adlist.txt
+# Project home page: https://github.com/haraldkoch/safelists
+#
+# ===============================================================
+
+click.email.canadiantire.ca
+link.morningbrew.com
+link.theatlantic.com
