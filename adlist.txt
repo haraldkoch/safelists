@@ -10,5 +10,6 @@
 
 ablink.editorial.theguardian.com
 click.email.canadiantire.ca
+click.myctm.canadiantire.ca
 link.morningbrew.com
 link.theatlantic.com
