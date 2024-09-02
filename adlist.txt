@@ -9,6 +9,7 @@
 # ===============================================================
 
 ablink.editorial.theguardian.com
+ct.email.lcbo.com
 click.email.canadiantire.ca
 click.myctm.canadiantire.ca
 link.morningbrew.com
