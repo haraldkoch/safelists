@@ -1,0 +1,7 @@
+# Title: icloud.txt
+#
+# disable iCloud Private Relay
+#
+
+mask.icloud.com
+mask-h2.icloud.com
