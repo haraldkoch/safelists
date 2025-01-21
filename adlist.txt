@@ -16,3 +16,6 @@ link.morningbrew.com
 link.theatlantic.com
 ns1.namebrightdns.com
 ns2.namebrightdns.com
+# 407etr
+sdk.split.io
+auth.split.io
