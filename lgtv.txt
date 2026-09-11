@@ -4,12 +4,15 @@
 #
 
 lgsmartad.com
+lgsmartweb.com
 lgthinq.com
 lgtvcommon.com
 lgtviot.com
 nextlgsdp.com
 ngfts.lge.com
 nsu.lge.com
+snu-dev.lge.com
 snu.lge.com
+su-dev.lge.com
 su-ssl.lge.com
 su.lge.com
