@@ -1,0 +1,15 @@
+# Title: lgtv.txt
+#
+# block LG spyware
+#
+
+lgsmartad.com
+lgthinq.com
+lgtvcommon.com
+lgtviot.com
+nextlgsdp.com
+ngfts.lge.com
+nsu.lge.com
+snu.lge.com
+su-ssl.lge.com
+su.lge.com
